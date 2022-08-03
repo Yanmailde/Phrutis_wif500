@@ -13,7 +13,7 @@ This way you won't serch empty ranges. This speeds up the overall search process
 The advantage of the challenge is that if the key is found, each hunter will receive compensation for the ranges he has passed.</br>
 200 btc is a worthy reward for a find key.</br>
 Good luck!</br>
-![20220729_131639](https://user-images.githubusercontent.com/82582647/181738691-c29d2614-9ca9-40e4-bb1c-2fcf76959057.jpg)</br>
+![20220803_131510](https://user-images.githubusercontent.com/82582647/182584463-86592712-10a9-43c5-b3a9-0289df4aa410.jpg)</br>
 ## How to participate in the challenge:
 If you have a GPUs:</br>
 **RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000** and are ready to search for a key **24/7**</br>
