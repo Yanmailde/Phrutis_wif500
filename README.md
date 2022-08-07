@@ -33,8 +33,8 @@ RTX 3070 2.2 Gkey/s = 6 days (one range)</br>
 RTX 2070 1,4 Gkey/s = 9 days (one range)</br>
 There is a continuation of the search from the last checkpoint</br>
 
-Add a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) </br>
-Write: ```@phrutis``` the numbers of the range in which you took for the search.</br>
+Add a telegram [**group**](https://t.me/+Y887iX1txBU0OTcy) </br>
+Write: the numbers of the range in which you took for the search.</br>
 I will accept your participation and add you to the table</br>
 Do not take busy (in progress) ranges, see the [**TABLE**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md).</br>
 **Don't join if**
